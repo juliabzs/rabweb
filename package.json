@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/juliabzs/portfolio.git"
+    "deploy": "gh-pages -d dist -r https://github.com/juliabzs/rabweb.git"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
